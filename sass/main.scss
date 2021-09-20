@@ -46,6 +46,9 @@ textarea {
 
 .section {
   padding: 94px 0;
+  &.about {
+    padding-top: 0;
+  }
 }
 .container {
   margin: 0 auto;
